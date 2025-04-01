@@ -48,14 +48,3 @@ This project provides a sleek, visually appealing website that highlights your p
 - **Back-to-Top Button:**  
   A convenient button appears after scrolling down the page, enabling smooth navigation back to the top.
 
-## Technical Details
-
-### HTML Structure
-- **Semantic Markup:** Uses HTML5 semantic elements for improved accessibility and SEO.
-- **Sectioned Layout:** Divided into distinct sections (Home, About, Features, etc.) for better organization and navigation.
-
-### CSS Styling
-- **Responsive Design:** Media queries adjust layout and typography for different screen sizes.
-- **Custom Properties:** Utilizes CSS variables for consistent color themes and easy customization.
-- **Animations:** Includes subtle animations (e.g., shake and pop effects) to enhance user interaction and feedback.
-
