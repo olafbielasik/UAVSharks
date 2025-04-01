@@ -11,6 +11,10 @@ UAV Shark's is a fully responsive and interactive single-page website template d
 
 This project provides a sleek, visually appealing website that highlights your products, team, customer reviews, and more. The design is fully responsive, ensuring compatibility across various devices, from desktop to mobile. It incorporates smooth animations, dynamic content toggling, and interactive elements to engage users and streamline navigation.
 
+<p align="center">
+  <img src="media/gif1.gif" alt="gif1">
+</p>
+
 ## Key Features
 
 - **Fixed Header & Navigation:**  
