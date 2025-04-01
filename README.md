@@ -51,13 +51,3 @@ This project provides a sleek, visually appealing website that highlights your p
 - **Custom Properties:** Utilizes CSS variables for consistent color themes and easy customization.
 - **Animations:** Includes subtle animations (e.g., shake and pop effects) to enhance user interaction and feedback.
 
-### JavaScript Functionality
-- **Event-Driven Interactivity:**  
-  Listeners handle various UI interactions, such as toggling search, cart, and navigation menus, filtering items in real time, and managing user sessions.
-- **Dynamic Cart Management:**  
-  When an item is added to the cart, a new element is created and inserted into the DOM. The cart count is updated and animations provide visual feedback.
-- **Form Validations:**  
-  Simple client-side validation for newsletter subscriptions, registration, and login forms ensures that inputs meet basic requirements before processing.
-
-## Project Structure
-
