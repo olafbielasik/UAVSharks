@@ -48,6 +48,10 @@ This project provides a sleek, visually appealing website that highlights your p
 - **Back-to-Top Button:**  
   A convenient button appears after scrolling down the page, enabling smooth navigation back to the top.
 
+<p align="center">
+  <img src="media/gif2.gif" alt="gif2">
+</p>
+
 ## Technical Details
 
 ### HTML Structure
