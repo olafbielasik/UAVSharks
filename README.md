@@ -3,6 +3,10 @@
 
 UAV Shark's is a fully responsive and interactive single-page website template designed for a modern drone parts store.
 
+<p align="center">
+  <img src="media/screenshot.png" alt="screenshot">
+</p>
+
 ## Overview
 
 This project provides a sleek, visually appealing website that highlights your products, team, customer reviews, and more. The design is fully responsive, ensuring compatibility across various devices, from desktop to mobile. It incorporates smooth animations, dynamic content toggling, and interactive elements to engage users and streamline navigation.
